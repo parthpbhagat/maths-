@@ -1,0 +1,201 @@
+household_id,age_of_household_head,household_income,education_level,family_size,owns_house,urban_rural
+H001,45,75000,Bachelor's,4,Yes,Suburban
+H002,32,48000,High School,2,No,Urban
+H003,67,112000,Master's,3,Yes,Rural
+H004,25,30000,Less than High School,1,No,Urban
+H005,58,95000,PhD,5,Yes,Suburban
+H006,41,62000,Bachelor's,3,Yes,Suburban
+H007,72,88000,High School,2,Yes,Rural
+H008,35,55000,Bachelor's,4,No,Urban
+H009,51,135000,Master's,5,Yes,Suburban
+H010,28,40000,High School,1,No,Urban
+H011,63,160000,PhD,2,Yes,Suburban
+H012,49,70000,Bachelor's,6,Yes,Rural
+H013,38,52000,High School,3,No,Urban
+H014,55,105000,Master's,4,Yes,Suburban
+H015,22,25000,Less than High School,1,No,Urban
+H016,68,90000,Bachelor's,2,Yes,Rural
+H017,44,65000,High School,5,No,Suburban
+H018,31,42000,Bachelor's,2,No,Urban
+H019,59,150000,PhD,3,Yes,Suburban
+H020,47,78000,Master's,4,Yes,Rural
+H021,34,50000,Bachelor's,1,No,Urban
+H022,61,120000,High School,3,Yes,Suburban
+H023,29,35000,Less than High School,2,No,Urban
+H024,53,98000,Master's,6,Yes,Rural
+H025,40,68000,Bachelor's,3,Yes,Suburban
+H026,75,100000,PhD,2,Yes,Rural
+H027,36,58000,High School,4,No,Urban
+H028,50,85000,Bachelor's,5,Yes,Suburban
+H029,27,33000,Less than High School,1,No,Urban
+H030,66,130000,Master's,3,Yes,Rural
+H031,42,72000,Bachelor's,4,Yes,Suburban
+H032,30,46000,High School,2,No,Urban
+H033,56,110000,PhD,5,Yes,Suburban
+H034,24,28000,Less than High School,1,No,Urban
+H035,70,92000,Bachelor's,2,Yes,Rural
+H036,46,60000,High School,3,No,Suburban
+H037,33,49000,Bachelor's,4,No,Urban
+H038,65,140000,Master's,2,Yes,Rural
+H039,48,76000,PhD,5,Yes,Suburban
+H040,26,38000,High School,1,No,Urban
+H041,54,115000,Bachelor's,3,Yes,Rural
+H042,43,67000,Master's,6,Yes,Suburban
+H043,37,54000,High School,4,No,Urban
+H044,60,125000,PhD,3,Yes,Suburban
+H045,21,20000,Less than High School,1,No,Urban
+H046,73,80000,Bachelor's,2,Yes,Rural
+H047,45,71000,Master's,5,Yes,Suburban
+H048,39,57000,High School,3,No,Urban
+H049,52,102000,Bachelor's,4,Yes,Rural
+H050,23,27000,Less than High School,1,No,Urban
+H051,69,155000,PhD,2,Yes,Suburban
+H052,41,63000,Master's,6,Yes,Rural
+H053,30,47000,High School,2,No,Urban
+H054,58,118000,Bachelor's,5,Yes,Suburban
+H055,25,32000,Less than High School,1,No,Urban
+H056,64,96000,PhD,3,Yes,Rural
+H057,47,77000,Master's,4,Yes,Suburban
+H058,35,53000,High School,3,No,Urban
+H059,51,138000,Bachelor's,2,Yes,Rural
+H060,28,41000,Less than High School,1,No,Urban
+H061,71,170000,PhD,4,Yes,Suburban
+H062,49,74000,Master's,6,Yes,Rural
+H063,38,56000,High School,4,No,Urban
+H064,55,108000,Bachelor's,5,Yes,Suburban
+H065,22,26000,Less than High School,1,No,Urban
+H066,68,91000,PhD,3,Yes,Rural
+H067,44,66000,Master's,2,No,Suburban
+H068,31,43000,High School,2,No,Urban
+H069,59,152000,Bachelor's,4,Yes,Suburban
+H070,47,79000,Master's,5,Yes,Rural
+H071,34,51000,High School,1,No,Urban
+H072,61,122000,PhD,3,Yes,Suburban
+H073,29,36000,Less than High School,2,No,Urban
+H074,53,99000,Bachelor's,6,Yes,Rural
+H075,40,69000,Master's,3,Yes,Suburban
+H076,75,101000,High School,2,Yes,Rural
+H077,36,59000,Bachelor's,4,No,Urban
+H078,50,86000,PhD,5,Yes,Suburban
+H079,27,34000,Less than High School,1,No,Urban
+H080,66,132000,Master's,3,Yes,Rural
+H081,42,73000,Bachelor's,4,Yes,Suburban
+H082,30,47000,High School,2,No,Urban
+H083,56,111000,PhD,5,Yes,Suburban
+H084,24,29000,Less than High School,1,No,Urban
+H085,70,93000,Bachelor's,2,Yes,Rural
+H086,46,61000,Master's,3,No,Suburban
+H087,33,50000,High School,4,No,Urban
+H088,65,142000,PhD,2,Yes,Rural
+H089,48,77000,Bachelor's,5,Yes,Suburban
+H090,26,39000,Less than High School,1,No,Urban
+H091,54,116000,Master's,3,Yes,Rural
+H092,43,68000,PhD,6,Yes,Suburban
+H093,37,55000,High School,4,No,Urban
+H094,60,127000,Bachelor's,3,Yes,Suburban
+H095,21,21000,Less than High School,1,No,Urban
+H096,73,81000,Master's,2,Yes,Rural
+H097,45,72000,PhD,5,Yes,Suburban
+H098,39,58000,High School,3,No,Urban
+H099,52,103000,Bachelor's,4,Yes,Rural
+H100,23,28000,Less than High School,1,No,Urban
+H101,69,157000,Master's,2,Yes,Suburban
+H102,41,64000,PhD,6,Yes,Rural
+H103,30,48000,High School,2,No,Urban
+H104,58,119000,Bachelor's,5,Yes,Suburban
+H105,25,33000,Less than High School,1,No,Urban
+H106,64,97000,Master's,3,Yes,Rural
+H107,47,78000,PhD,4,Yes,Suburban
+H108,35,54000,High School,3,No,Urban
+H109,51,139000,Bachelor's,2,Yes,Rural
+H110,28,42000,Less than High School,1,No,Urban
+H111,71,172000,Master's,4,Yes,Suburban
+H112,49,75000,PhD,6,Yes,Rural
+H113,38,57000,High School,4,No,Urban
+H114,55,109000,Bachelor's,5,Yes,Suburban
+H115,22,27000,Less than High School,1,No,Urban
+H116,68,92000,Master's,3,Yes,Rural
+H117,44,67000,PhD,2,No,Suburban
+H118,31,44000,High School,2,No,Urban
+H119,59,154000,Bachelor's,4,Yes,Suburban
+H120,47,80000,Master's,5,Yes,Rural
+H121,34,52000,PhD,1,No,Urban
+H122,61,123000,High School,3,Yes,Suburban
+H123,29,37000,Less than High School,2,No,Urban
+H124,53,100000,Bachelor's,6,Yes,Rural
+H125,40,70000,Master's,3,Yes,Suburban
+H126,75,102000,PhD,2,Yes,Rural
+H127,36,60000,High School,4,No,Urban
+H128,50,87000,Bachelor's,5,Yes,Suburban
+H129,27,35000,Less than High School,1,No,Urban
+H130,66,133000,Master's,3,Yes,Rural
+H131,42,74000,PhD,4,Yes,Suburban
+H132,30,48000,High School,2,No,Urban
+H133,56,112000,Bachelor's,5,Yes,Suburban
+H134,24,30000,Less than High School,1,No,Urban
+H135,70,94000,Master's,2,Yes,Rural
+H136,46,62000,PhD,3,No,Suburban
+H137,33,51000,High School,4,No,Urban
+H138,65,144000,Bachelor's,2,Yes,Rural
+H139,48,78000,Master's,5,Yes,Suburban
+H140,26,40000,Less than High School,1,No,Urban
+H141,54,117000,PhD,3,Yes,Rural
+H142,43,69000,Bachelor's,6,Yes,Suburban
+H143,37,56000,High School,4,No,Urban
+H144,60,128000,Master's,3,Yes,Suburban
+H145,21,22000,Less than High School,1,No,Urban
+H146,73,82000,PhD,2,Yes,Rural
+H147,45,73000,Bachelor's,5,Yes,Suburban
+H148,39,59000,High School,3,No,Urban
+H149,52,104000,Master's,4,Yes,Rural
+H150,23,29000,Less than High School,1,No,Urban
+H151,69,159000,PhD,2,Yes,Suburban
+H152,41,65000,Bachelor's,6,Yes,Rural
+H153,30,49000,High School,2,No,Urban
+H154,58,120000,Master's,5,Yes,Suburban
+H155,25,34000,Less than High School,1,No,Urban
+H156,64,98000,PhD,3,Yes,Rural
+H157,47,79000,Bachelor's,4,Yes,Suburban
+H158,35,55000,High School,3,No,Urban
+H159,51,140000,Master's,2,Yes,Rural
+H160,28,43000,Less than High School,1,No,Urban
+H161,71,174000,PhD,4,Yes,Suburban
+H162,49,76000,Bachelor's,6,Yes,Rural
+H163,38,58000,High School,4,No,Urban
+H164,55,110000,Master's,5,Yes,Suburban
+H165,22,28000,Less than High School,1,No,Urban
+H166,68,93000,PhD,3,Yes,Rural
+H167,44,68000,Bachelor's,2,No,Suburban
+H168,31,45000,High School,2,No,Urban
+H169,59,156000,Master's,4,Yes,Suburban
+H170,47,81000,PhD,5,Yes,Rural
+H171,34,53000,Bachelor's,1,No,Urban
+H172,61,124000,High School,3,Yes,Suburban
+H173,29,38000,Less than High School,2,No,Urban
+H174,53,101000,Master's,6,Yes,Rural
+H175,40,71000,PhD,3,Yes,Suburban
+H176,75,103000,High School,2,Yes,Rural
+H177,36,61000,Bachelor's,4,No,Urban
+H178,50,88000,Master's,5,Yes,Suburban
+H179,27,36000,Less than High School,1,No,Urban
+H180,66,134000,PhD,3,Yes,Rural
+H181,42,75000,Bachelor's,4,Yes,Suburban
+H182,30,49000,High School,2,No,Urban
+H183,56,113000,Master's,5,Yes,Suburban
+H184,24,31000,Less than High School,1,No,Urban
+H185,70,95000,PhD,2,Yes,Rural
+H186,46,63000,Bachelor's,3,No,Suburban
+H187,33,52000,High School,4,No,Urban
+H188,65,146000,Master's,2,Yes,Rural
+H189,48,79000,PhD,5,Yes,Suburban
+H190,26,41000,Less than High School,1,No,Urban
+H191,54,118000,Bachelor's,3,Yes,Rural
+H192,43,70000,Master's,6,Yes,Suburban
+H193,37,57000,High School,4,No,Urban
+H194,60,129000,PhD,3,Yes,Suburban
+H195,21,23000,Less than High School,1,No,Urban
+H196,73,83000,Bachelor's,2,Yes,Rural
+H197,45,74000,Master's,5,Yes,Suburban
+H198,39,60000,High School,3,No,Urban
+H199,52,105000,PhD,4,Yes,Rural
+H200,23,30000,Less than High School,1,No,Urban
